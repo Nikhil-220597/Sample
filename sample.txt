@@ -1,0 +1,6 @@
+[sample]
+name=sample repo
+baseurl=file:///media/RHEL_6.3\ x86_64\ Disc\ 1/
+enabled=1
+gpgcheck=1
+gpgkey=file:///media/RHEL_6.3\ x86_64\ Disc\ 1/RPM-GPG-KEY-redhat-release
